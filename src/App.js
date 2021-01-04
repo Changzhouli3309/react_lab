@@ -1,13 +1,11 @@
 import './App.css';
 
-import MyNav from './MyNav';
+import EmployeeList from './EmployeeList';
 
 function App() {
   return (
     <>
-    <div>123</div>
-    <MyNav />
-    
+    <EmployeeList />
     </>
   );
 }
